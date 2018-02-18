@@ -8,7 +8,7 @@ I'm Robin. I'm using this space to post my random data analyses and visualizatio
 
 ### My Background
 
-Born and raised in northern New Jersey. Received my bachelor's in mechanical engineering from the University of Michigan. Now living in Austin, TX. Currently working in analytics at [Quantcast](https://www.quantcast.com), and teaching analytics and visualization at [UT Austin](https://techbootcamps.extendedcampus.utexas.edu/data/).
+Born and raised in northern New Jersey. Received my bachelor's in mechanical engineering from the University of Michigan. Now living in Austin, TX. Currently working as a quality auditor at Facebook, and teaching analytics and visualization at [UT Austin](https://techbootcamps.extendedcampus.utexas.edu/data/).
 
 ### Contact me
 
